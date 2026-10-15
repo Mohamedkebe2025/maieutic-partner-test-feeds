@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+  <publisher>Maieutic</publisher>
+  <publisherurl>https://maieutic.ca</publisherurl>
+  <employer>Employeur fictif A — Atelier Érable &amp; Pixel</employer>
+  <lastbuilddate>2026-10-15T14:00:00.000Z</lastbuilddate>
+  <jobs>
+    <job>
+      <referencenumber>ES-A-001</referencenumber>
+      <title><![CDATA[TEST — Infirmière clinicienne — offre fictive]]></title>
+      <description><![CDATA[<p>Offre de démonstration fictive à Lévis. Aucune candidature ni offre client réelle n'est associée.</p><p>Marqueur de test CDATA : ]]]]><![CDATA[> doit rester du texte.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-001/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Lévis</city>
+      <region>Chaudière-Appalaches</region>
+      <country>CA</country>
+      <category>Santé, Spécialité fictive</category>
+      <jobtype>Temps plein</jobtype>
+      <salarymin>65000</salarymin>
+      <salarymax>75000</salarymax>
+      <language>fr</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-002</referencenumber>
+      <title><![CDATA[TEST — Coordonnatrice de projet — offre fictive]]></title>
+      <description><![CDATA[<p>Offre de démonstration fictive à Toronto, Ontario. Durée et salaire non renseignés.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-002/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Toronto</city>
+      <region>Ontario</region>
+      <country>CA</country>
+      <category>Administration, Projets fictifs</category>
+      <jobtype>Contractuel</jobtype>
+      <language>fr</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-003</referencenumber>
+      <title><![CDATA[TEST fictif — Développeur Web]]></title>
+      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Développeur Web, Montréal, Télétravail. Contractuel.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-003/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Montréal</city>
+      <region>Montréal</region>
+      <country>CA</country>
+      <category>Programmation Web / TI</category>
+      <jobtype>Temps partiel</jobtype>
+      <salarymin>65000</salarymin>
+      <salarymax>75000</salarymax>
+      <language>fr</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-004</referencenumber>
+      <title><![CDATA[TEST fictif — Graphiste]]></title>
+      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Graphiste, Sherbrooke, Sur place. Temporaire.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-004/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Sherbrooke</city>
+      <region>Estrie</region>
+      <country>CA</country>
+      <category>Design graphique / Multimédia</category>
+      <jobtype>Temporaire</jobtype>
+      <language>fr</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-005</referencenumber>
+      <title><![CDATA[TEST — Fictional web analyst]]></title>
+      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST — Fictional web analyst, Toronto, Hybride. Stage.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-005/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=en&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Toronto</city>
+      <region>Ontario</region>
+      <country>CA</country>
+      <category>RH / Acquisition de talents</category>
+      <jobtype>Stage</jobtype>
+      <salarymin>65000</salarymin>
+      <salarymax>75000</salarymax>
+      <language>en</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-006</referencenumber>
+      <title><![CDATA[TEST fictif — Coordination bénévole]]></title>
+      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Coordination bénévole, Québec, Télétravail. Bénévole.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-006/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Québec</city>
+      <region>Capitale-Nationale</region>
+      <country>CA</country>
+      <category>Événementiel</category>
+      <jobtype>Bénévole</jobtype>
+      <language>fr</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-007</referencenumber>
+      <title><![CDATA[TEST fictif — Technicien en atelier]]></title>
+      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Technicien en atelier, Lévis, Sur place. À la journée.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-007/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Lévis</city>
+      <region>Chaudière-Appalaches</region>
+      <country>CA</country>
+      <category>Manufacturier</category>
+      <jobtype>À la journée</jobtype>
+      <salarymin>65000</salarymin>
+      <salarymax>75000</salarymax>
+      <language>fr</language>
+    </job>
+    <job>
+      <referencenumber>ES-A-001</referencenumber>
+      <title><![CDATA[TEST — Clinical Nurse — fictional listing]]></title>
+      <description><![CDATA[<p>Fictional English variant of EMPLOIS-TEST-001. No real employer or vacancy is represented.</p>]]></description>
+      <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-A-001/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=en&amp;maieutic_source=emplois-specialises</url>
+      <date>2026-10-13</date>
+      <expirydate>2026-12-15</expirydate>
+      <city>Lévis</city>
+      <region>Chaudière-Appalaches</region>
+      <country>CA</country>
+      <category>Santé, Spécialité fictive</category>
+      <jobtype>Temps plein</jobtype>
+      <language>en</language>
+    </job>
+  </jobs>
+</source>

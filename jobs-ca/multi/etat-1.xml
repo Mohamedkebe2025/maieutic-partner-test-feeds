@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- HYPOTHESE MAIEUTIC : schema non fourni ni valide par Jobs.ca -->
+<source><publisher><![CDATA[Maieutic TEST — HYPOTHÈSE]]></publisher><publisherurl><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds]]></publisherurl>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-001]]></referencenumber>
+<title><![CDATA[TEST fictif — Spécialiste marketing]]></title>
+<company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
+<companyid><![CDATA[TEST-A]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-001/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Québec]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Spécialiste marketing, Québec, Sur place. Temps plein.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[Temps plein]]></jobtype>
+<category><![CDATA[Marketing]]></category>
+<salary><![CDATA[65 000 à 75 000 CAD/an]]></salary>
+<language><![CDATA[fr]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-002]]></referencenumber>
+<title><![CDATA[TEST fictif — Conseillère en communication]]></title>
+<company><![CDATA[Employeur fictif B — Studio L’Étoile (crédits : HYPOTHÈSE non confirmée)]]></company>
+<companyid><![CDATA[TEST-B]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-002/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Lévis]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Conseillère en communication, Lévis, Hybride. Temps partiel.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[Temps partiel]]></jobtype>
+<category><![CDATA[Communications / Relations publiques]]></category>
+<salary><![CDATA[]]></salary>
+<language><![CDATA[fr]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-003]]></referencenumber>
+<title><![CDATA[TEST fictif — Développeur Web]]></title>
+<company><![CDATA[Employeur fictif C — Laboratoire Boréal (Job Sync : scénario fictif)]]></company>
+<companyid><![CDATA[TEST-C]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-003/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Montréal]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Développeur Web, Montréal, Télétravail. Contractuel.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[Contractuel]]></jobtype>
+<category><![CDATA[Programmation Web / TI]]></category>
+<salary><![CDATA[65 000 à 75 000 CAD/an]]></salary>
+<language><![CDATA[fr]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-004]]></referencenumber>
+<title><![CDATA[TEST fictif — Graphiste]]></title>
+<company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
+<companyid><![CDATA[TEST-A]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-004/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Sherbrooke]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Graphiste, Sherbrooke, Sur place. Temporaire.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[Temporaire]]></jobtype>
+<category><![CDATA[Design graphique / Multimédia]]></category>
+<salary><![CDATA[]]></salary>
+<language><![CDATA[fr]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-005]]></referencenumber>
+<title><![CDATA[TEST — Fictional web analyst]]></title>
+<company><![CDATA[Employeur fictif B — Studio L’Étoile (crédits : HYPOTHÈSE non confirmée)]]></company>
+<companyid><![CDATA[TEST-B]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-005/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Toronto]]></city>
+<state><![CDATA[ON]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST — Fictional web analyst, Toronto, Hybride. Stage.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[Stage]]></jobtype>
+<category><![CDATA[RH / Acquisition de talents]]></category>
+<salary><![CDATA[65 000 à 75 000 CAD/an]]></salary>
+<language><![CDATA[en]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-006]]></referencenumber>
+<title><![CDATA[TEST fictif — Coordination bénévole]]></title>
+<company><![CDATA[Employeur fictif C — Laboratoire Boréal (Job Sync : scénario fictif)]]></company>
+<companyid><![CDATA[TEST-C]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-006/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Québec]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Coordination bénévole, Québec, Télétravail. Bénévole.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[Bénévole]]></jobtype>
+<category><![CDATA[Événementiel]]></category>
+<salary><![CDATA[]]></salary>
+<language><![CDATA[fr]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-007]]></referencenumber>
+<title><![CDATA[TEST fictif — Technicien en atelier]]></title>
+<company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
+<companyid><![CDATA[TEST-A]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-007/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Lévis]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Technicien en atelier, Lévis, Sur place. À la journée.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<jobtype><![CDATA[À la journée]]></jobtype>
+<category><![CDATA[Manufacturier]]></category>
+<salary><![CDATA[65 000 à 75 000 CAD/an]]></salary>
+<language><![CDATA[fr]]></language>
+</job>
+<job>
+<referencenumber><![CDATA[JCA-MULTI-001]]></referencenumber>
+<title><![CDATA[TEST — Fictional marketing specialist]]></title>
+<company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
+<companyid><![CDATA[TEST-A]]></companyid>
+<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-001/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
+<date><![CDATA[2026-10-13]]></date>
+<expirydate><![CDATA[2026-12-15]]></expirydate>
+<lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
+<city><![CDATA[Québec]]></city>
+<state><![CDATA[QC]]></state>
+<country><![CDATA[CA]]></country>
+<postalcode><![CDATA[]]></postalcode>
+<description><![CDATA[<p>Fictional English variant of the same reference. No applications accepted.</p>]]></description>
+<jobtype><![CDATA[Temps plein]]></jobtype>
+<category><![CDATA[Marketing]]></category>
+<salary><![CDATA[65 000 à 75 000 CAD/an]]></salary>
+<language><![CDATA[en]]></language>
+</job>
+</source>
