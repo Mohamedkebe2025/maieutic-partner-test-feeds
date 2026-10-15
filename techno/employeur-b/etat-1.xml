@@ -15,7 +15,7 @@
       <city>Lévis</city>
       <region>Chaudière-Appalaches</region>
       <country>CA</country>
-      <category>Santé, Spécialité fictive</category>
+      <category>Santé</category>
       <jobtype>Autre</jobtype>
       <salarymin>65000</salarymin>
       <salarymax>75000</salarymax>
@@ -31,21 +31,21 @@
       <city>Toronto</city>
       <region>Ontario</region>
       <country>CA</country>
-      <category>Administration, Projets fictifs</category>
+      <category>Administration</category>
       <jobtype>Contractuel</jobtype>
       <language>fr</language>
     </job>
     <job>
       <referencenumber>ES-B-003</referencenumber>
       <title><![CDATA[TEST fictif — Développeur Web]]></title>
-      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Développeur Web, Montréal, Télétravail. Contractuel.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST fictif — Développeur Web, Montréal, Télétravail. Temps partiel.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
       <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-B-003/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=fr&amp;maieutic_source=emplois-specialises</url>
       <date>2026-10-13</date>
       <expirydate>2026-12-15</expirydate>
       <city>Montréal</city>
       <region>Montréal</region>
       <country>CA</country>
-      <category>Programmation Web / TI</category>
+      <category>Informatique (IT)</category>
       <jobtype>Temps partiel</jobtype>
       <salarymin>65000</salarymin>
       <salarymax>75000</salarymax>
@@ -68,14 +68,14 @@
     <job>
       <referencenumber>ES-B-005</referencenumber>
       <title><![CDATA[TEST — Fictional web analyst]]></title>
-      <description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST — Fictional web analyst, Toronto, Hybride. Stage.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+      <description><![CDATA[<p>FICTIONAL TEST — No real vacancy or recruitment. TEST — Fictional web analyst, Toronto. Work mode: hybrid. Employment type: internship (Stage).</p><p>UTF-8 test: Québec, l’équipe, &amp;, &quot;quotes&quot; and literal CDATA marker: ]]]]><![CDATA[>.</p><p>No applications are collected.</p>]]></description>
       <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-B-005/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=en&amp;maieutic_source=emplois-specialises</url>
       <date>2026-10-13</date>
       <expirydate>2026-12-15</expirydate>
       <city>Toronto</city>
       <region>Ontario</region>
       <country>CA</country>
-      <category>RH / Acquisition de talents</category>
+      <category>Informatique (IT)</category>
       <jobtype>Stage</jobtype>
       <salarymin>65000</salarymin>
       <salarymax>75000</salarymax>
@@ -114,15 +114,17 @@
     <job>
       <referencenumber>ES-B-001</referencenumber>
       <title><![CDATA[TEST — Clinical Nurse — fictional listing]]></title>
-      <description><![CDATA[<p>Fictional English variant of EMPLOIS-TEST-001. No real employer or vacancy is represented.</p>]]></description>
+      <description><![CDATA[<p>Fictional English variant of ES-B-001. No real employer or vacancy is represented.</p>]]></description>
       <url>https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ES-B-001/?utm_source=emploisspecialises&amp;utm_medium=partner-test&amp;utm_campaign=PARTENAIRES-FLUX-TEST-01&amp;lang=en&amp;maieutic_source=emplois-specialises</url>
       <date>2026-10-13</date>
       <expirydate>2026-12-15</expirydate>
       <city>Lévis</city>
       <region>Chaudière-Appalaches</region>
       <country>CA</country>
-      <category>Santé, Spécialité fictive</category>
+      <category>Santé</category>
       <jobtype>Autre</jobtype>
+      <salarymin>65000</salarymin>
+      <salarymax>75000</salarymax>
       <language>en</language>
     </job>
   </jobs>

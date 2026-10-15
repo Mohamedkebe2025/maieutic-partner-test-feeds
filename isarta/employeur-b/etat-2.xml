@@ -71,7 +71,7 @@
 <city><![CDATA[Toronto]]></city>
 <state><![CDATA[ON]]></state>
 <country><![CDATA[CA]]></country>
-<description><![CDATA[<p>TEST FICTIF — Aucune offre réelle, aucun recrutement. TEST — Fictional web analyst, Toronto, Hybride. Stage.</p><p>Cas UTF-8 : Québec, l’équipe, l'apostrophe, &amp;, &quot;guillemets&quot; et marqueur CDATA littéral : ]]]]><![CDATA[>.</p><p>Cette page ne reçoit aucune candidature.</p>]]></description>
+<description><![CDATA[<p>FICTIONAL TEST — No real vacancy or recruitment. TEST — Fictional web analyst, Toronto. Work mode: hybrid. Employment type: internship (Stage).</p><p>UTF-8 test: Québec, l’équipe, &amp;, &quot;quotes&quot; and literal CDATA marker: ]]]]><![CDATA[>.</p><p>No applications are collected.</p>]]></description>
 <url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/ISA-B-005/?utm_source=isarta&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
 <category><![CDATA[Programmation Web / TI]]></category>
 <jobtype><![CDATA[Stage]]></jobtype>
