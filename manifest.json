@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-15-v1",
+  "version": "2026-10-15-v2-isarta-category",
   "synthetic": true,
   "base": "https://mohamedkebe2025.github.io/maieutic-partner-test-feeds",
   "feeds": [
@@ -55,8 +55,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 8179,
-      "sha256": "2bc75dc0e256702d05541c59c3157ad8fa8c7b1ebc22a4e4b1a3ea2d4cd4baed"
+      "bytes": 8174,
+      "sha256": "cf854bc2163a4a713d93e52630c06ad52cc8da3f47c4d0f2a75c6e0e99f30121"
     },
     {
       "path": "isarta/employeur-a/etat-2.xml",
@@ -66,8 +66,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 7098,
-      "sha256": "d46913340ab1b03425009e4db8974749590c8723207c601d5ba64775a6b3ecdb"
+      "bytes": 7093,
+      "sha256": "11c1b930f742ae8304f348aa19f434d609a93b14f8b699fef59f9cac37f321f9"
     },
     {
       "path": "isarta/employeur-b/etat-1.xml",
@@ -77,8 +77,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 8144,
-      "sha256": "411474c0ba5215927ab4a7e9fc909d133c89ddaec13900e0fa229230ed63aff1"
+      "bytes": 8139,
+      "sha256": "152f04e45b68f91dbbf489912a9d5c2ce058d393eb548ec0b1ed5b368a65831f"
     },
     {
       "path": "isarta/employeur-b/etat-2.xml",
@@ -88,8 +88,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 7068,
-      "sha256": "e4bf973eb1c94e10c0f2773938c8a30a441df9b8c107713b609720720abe00b3"
+      "bytes": 7063,
+      "sha256": "7cea66c9299524316e4b166a55c5aa5aedaadd0517dcd9646fd8815fd7077b93"
     },
     {
       "path": "jobs-ca/mono/etat-1.xml",
