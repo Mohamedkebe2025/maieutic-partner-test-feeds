@@ -1,7 +1,7 @@
 {
   "version": "2026-10-15-v3-grokbot-1-4",
   "synthetic": true,
-  "base": "https://mohamedkebe2025.github.io/maieutic-partner-test-feeds",
+  "base": "https://tests.maieutic.ca",
   "feeds": [
     {
       "path": "techno/employeur-a/etat-1.xml",
@@ -11,8 +11,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "Federico 7/13 oct. + serializer Codex existant",
-      "bytes": 8256,
-      "sha256": "8680ee75c021c2e548245f7807a2e86839b0e75014ec7e839a64b0596debad59"
+      "bytes": 7968,
+      "sha256": "94365453cbc0922d15b5ccc07772a00f46276e0a57109d13731ac2ccfdf1b66e"
     },
     {
       "path": "techno/employeur-a/etat-2.xml",
@@ -22,8 +22,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "Federico 7/13 oct. + serializer Codex existant",
-      "bytes": 7330,
-      "sha256": "6705dae35f1a68c7394c16af9eb7176c0fc4f05943805ac92c68a5aedcd6c850"
+      "bytes": 7078,
+      "sha256": "0143359916e373d5b59f97038f52ea7fcbcc2b3b17cc1013e61bfc08b5f8b064"
     },
     {
       "path": "techno/employeur-b/etat-1.xml",
@@ -33,8 +33,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "Federico 7/13 oct. + serializer Codex existant",
-      "bytes": 8235,
-      "sha256": "a703d19808428079f4c1ed63612d475ac543ecc7d5412b4b6bf8a4c132259c4a"
+      "bytes": 7947,
+      "sha256": "538c7f3fa2c8cdef210a2deb275975179b83c902d70bdde06ac731cb78521cd8"
     },
     {
       "path": "techno/employeur-b/etat-2.xml",
@@ -44,8 +44,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "Federico 7/13 oct. + serializer Codex existant",
-      "bytes": 7309,
-      "sha256": "a19e5ad4a9d7cb53642eed2e5bf8ddd211dd3e05182c5d4f22f9048344f9d7d9"
+      "bytes": 7057,
+      "sha256": "facd3f1a3c1db2ac8bf4bb45080bfaa7f1741fc394086cb6d8f310c088be5dc1"
     },
     {
       "path": "isarta/employeur-a/etat-1.xml",
@@ -55,8 +55,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 8175,
-      "sha256": "cd1f2e188375117061557d96d1ce7049e7e7b752984e892f4b14b2458a2f37da"
+      "bytes": 7887,
+      "sha256": "bffaf7c3623a36357d1446058c62e2e7f53118b8b970b06e2ba36832e5ab1611"
     },
     {
       "path": "isarta/employeur-a/etat-2.xml",
@@ -66,8 +66,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 7094,
-      "sha256": "3446e0bd8965f43c1f13d9f4e09a5c156f9aa318f514b2ed3a278a2b2d97764d"
+      "bytes": 6842,
+      "sha256": "28585960c4139b5976484ae2e10ca590b84eb51107b008141b63282198e790d7"
     },
     {
       "path": "isarta/employeur-b/etat-1.xml",
@@ -77,8 +77,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 8140,
-      "sha256": "96c380333a7376ee1d2f0f3cd68186f0760fad6c103ccb9ddb76111e2eb515be"
+      "bytes": 7852,
+      "sha256": "329625c56aa1c41556a3410431927ef321a8802905a146375020b781ca772024"
     },
     {
       "path": "isarta/employeur-b/etat-2.xml",
@@ -88,8 +88,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "XML public Isarta + email 14 oct update_date_time",
-      "bytes": 7064,
-      "sha256": "036387910c0e58fbd88301aff95cfa184586549033842d0fa313962c812677d2"
+      "bytes": 6812,
+      "sha256": "313a57b475a54e6144c1e698f9a1db2dfb8b26e429c4ac8f363d51911b6487fd"
     },
     {
       "path": "jobs-ca/mono/etat-1.xml",
@@ -99,8 +99,8 @@
       "references": 7,
       "employers": 1,
       "evidence": "PROPOSITION Maieutic; aucun schema Jobs.ca recu",
-      "bytes": 10383,
-      "sha256": "c48421b3bf843a81fe2ba67f1a1b556319317a2ba53317005f20df51fdef71cd"
+      "bytes": 10059,
+      "sha256": "89ef3f95c2803e29641f91213078a94d15ab1bb809f14445e1f32034d936f2e4"
     },
     {
       "path": "jobs-ca/mono/etat-2.xml",
@@ -110,8 +110,8 @@
       "references": 6,
       "employers": 1,
       "evidence": "PROPOSITION Maieutic; aucun schema Jobs.ca recu",
-      "bytes": 9212,
-      "sha256": "d291c95693eec5c9a4fa24d9b62df71feeb1a9823cf7da8c92d247b5abb491e4"
+      "bytes": 8924,
+      "sha256": "67ba5b7836f909cce94ebfb65ace9e4b09a2a6b5ff652d67500a3053a5032631"
     },
     {
       "path": "jobs-ca/multi/etat-1.xml",
@@ -121,8 +121,8 @@
       "references": 7,
       "employers": 3,
       "evidence": "PROPOSITION Maieutic; aucun schema Jobs.ca recu",
-      "bytes": 10399,
-      "sha256": "d57b8c39c7aa509f17e59153cb3c592766db9a81d578db1b028ccf35b734e0ee"
+      "bytes": 10075,
+      "sha256": "03d100b3045063c96f169bdb929ef14ecc21427ebb0e270929c4386d39b397c9"
     },
     {
       "path": "jobs-ca/multi/etat-2.xml",
@@ -132,8 +132,8 @@
       "references": 6,
       "employers": 3,
       "evidence": "PROPOSITION Maieutic; aucun schema Jobs.ca recu",
-      "bytes": 9230,
-      "sha256": "19c1baee55101e950bdd0d82db200e8a3d98c29b39594e9c83cafad4efc43255"
+      "bytes": 8942,
+      "sha256": "94b4669eac16ae5645f9b596efe395bcb016862dbdc8934c3b58cc85222fc4c1"
     },
     {
       "path": "careerjet/etat-1.xml",
@@ -143,8 +143,8 @@
       "references": 8,
       "employers": 2,
       "evidence": "spec XML suggeree + update selon Alex; contract_type/working_hours omis en attente de confirmation",
-      "bytes": 9857,
-      "sha256": "88594d4321e8833dae13ff23701233d54cd53419255487026d9cc8d1f8120ba7"
+      "bytes": 8993,
+      "sha256": "7eb566a4b315a0d63749f8b6399787555790ab6d4a1e92e688ec1241b2775cd5"
     },
     {
       "path": "careerjet/etat-2.xml",
@@ -154,8 +154,8 @@
       "references": 6,
       "employers": 2,
       "evidence": "spec XML suggeree + update selon Alex; contract_type/working_hours omis en attente de confirmation",
-      "bytes": 7454,
-      "sha256": "81b68c9da5e572ba56c9ff6c031c38cb17ad2eeef2a8d528995a99faa7bc7058"
+      "bytes": 6806,
+      "sha256": "92c965b2a2b5bd4ec56244e844d4a9e3c583bcbfe6eba7e4a3a57d241e22e0ef"
     }
   ],
   "reuse": [

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- HYPOTHESE MAIEUTIC : schema non fourni ni valide par Jobs.ca -->
-<source><publisher><![CDATA[Maieutic TEST — HYPOTHÈSE]]></publisher><publisherurl><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds]]></publisherurl>
+<source><publisher><![CDATA[Maieutic TEST — HYPOTHÈSE]]></publisher><publisherurl><![CDATA[https://tests.maieutic.ca]]></publisherurl>
 <job>
 <referencenumber><![CDATA[JCA-MULTI-001]]></referencenumber>
 <title><![CDATA[TEST fictif — Spécialiste marketing]]></title>
 <company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
 <companyid><![CDATA[TEST-A]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-001/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-001/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -25,7 +25,7 @@
 <title><![CDATA[TEST fictif — Conseillère en communication]]></title>
 <company><![CDATA[Employeur fictif B — Studio L’Étoile (crédits : HYPOTHÈSE non confirmée)]]></company>
 <companyid><![CDATA[TEST-B]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-002/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-002/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -44,7 +44,7 @@
 <title><![CDATA[TEST fictif — Développeur Web]]></title>
 <company><![CDATA[Employeur fictif C — Laboratoire Boréal (Job Sync : scénario fictif)]]></company>
 <companyid><![CDATA[TEST-C]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-003/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-003/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -63,7 +63,7 @@
 <title><![CDATA[TEST fictif — Graphiste]]></title>
 <company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
 <companyid><![CDATA[TEST-A]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-004/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-004/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -82,7 +82,7 @@
 <title><![CDATA[TEST — Fictional web analyst]]></title>
 <company><![CDATA[Employeur fictif B — Studio L’Étoile (crédits : HYPOTHÈSE non confirmée)]]></company>
 <companyid><![CDATA[TEST-B]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-005/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-005/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -101,7 +101,7 @@
 <title><![CDATA[TEST fictif — Coordination bénévole]]></title>
 <company><![CDATA[Employeur fictif C — Laboratoire Boréal (Job Sync : scénario fictif)]]></company>
 <companyid><![CDATA[TEST-C]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-006/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-006/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -120,7 +120,7 @@
 <title><![CDATA[TEST fictif — Technicien en atelier]]></title>
 <company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
 <companyid><![CDATA[TEST-A]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-007/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-007/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=fr]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
@@ -139,7 +139,7 @@
 <title><![CDATA[TEST — Fictional marketing specialist]]></title>
 <company><![CDATA[Employeur fictif A — Atelier Érable & Pixel (Job Sync : scénario fictif)]]></company>
 <companyid><![CDATA[TEST-A]]></companyid>
-<url><![CDATA[https://mohamedkebe2025.github.io/maieutic-partner-test-feeds/career/JCA-MULTI-001/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
+<url><![CDATA[https://tests.maieutic.ca/career/JCA-MULTI-001/?utm_source=jobsca&utm_medium=partner-test&utm_campaign=PARTENAIRES-FLUX-TEST-01&lang=en]]></url>
 <date><![CDATA[2026-10-13]]></date>
 <expirydate><![CDATA[2026-12-15]]></expirydate>
 <lastmodified><![CDATA[2026-10-15 10:00:00]]></lastmodified>
